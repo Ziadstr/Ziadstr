@@ -10,7 +10,7 @@
 
 Software Engineer at **Viero** — fleet management & fintech. Full stack by trade, security-minded by habit. Based in Amman, Jordan.
 
-I build backends with NestJS, Django, and Express, ship frontends with Next.js and Nuxt, and manage infrastructure on GCP with Kubernetes. When I'm not shipping features, I'm competing in penetration testing competitions or writing CTF challenges that make people rage-quit.
+I build backends with NestJS, Django, and Express, ship frontends with Next.js and Nuxt, and manage infrastructure on GCP with Kubernetes. When I'm not shipping features, I'm competing in penetration testing competitions or writing CTF challenges.
 
 ---
 
